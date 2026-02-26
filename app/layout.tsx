@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "JMTech Services",
+  title: "TechFlow",
   description: "Get the best tech solutions for your business with JMTech Services. We offer web development, and digital marketing services to help you succeed in the digital world.",
   icons: {
     icon: "/logo.png",
