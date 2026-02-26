@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <div className="mx-auto px-4 md:px-6 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
           <h3 className="text-lg font-bold">Landing Page Template</h3>
-          <p className="text-sm opacity-70">A versatile template by Gemini.</p>
+          <p className="text-sm opacity-70">Our templates carefully created for you.</p>
         </div>
         <div>
           <h3 className="text-lg font-bold">Site Map</h3>
