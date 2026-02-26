@@ -3,7 +3,7 @@
 import { useState, useEffect, RefObject } from 'react';
 
 const useIntersectionObserver = (
-  ref: RefObject<Element>,
+  ref: RefObject<Element | null>,
   options: IntersectionObserverInit = {}
 ): boolean => {
   const [isIntersecting, setIntersecting] = useState(false);

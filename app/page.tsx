@@ -59,7 +59,7 @@ export default function HomePage() {
               marginBottom: '2rem',
             }}
           >
-            Choose your destination
+            Avail our Services
           </p>
 
           {/* Title */}
@@ -90,7 +90,7 @@ export default function HomePage() {
               marginBottom: '4rem',
             }}
           >
-            Three paths. Three worlds. One choice.
+            Three paths. Three worlds. Your choice.
           </p>
 
           {/* Buttons */}
